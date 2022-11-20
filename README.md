@@ -1,4 +1,13 @@
-# jigsaw
+# F14 Tomcat jigsaw puzzle
+
+Custom jigsaw puzzle, laser-cut from acrylic glass.
+
+![](f14_small.jpg)
+
+![](f14_puzzle_small.jpg)
+
+
+## Resources
 
 * https://online.rapidresizer.com/photograph-to-pattern.php
 * https://blog.wplauncher.com/how-to-vectorize-an-image-in-inkscape/
